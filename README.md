@@ -37,3 +37,9 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+
+###### Home Page
+![Home Page](./demo/guidetoos.png)
+
+###### Dashboard 
+![Dashboard](./demo/dashboard.png)
